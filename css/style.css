@@ -1,0 +1,13 @@
+:root{
+    --primary: #f8f9fa;
+    --border: #4c5c68;
+    --filter: #fffcf2;
+}
+*{
+    box-sizing: border-box;
+}
+body{
+    background-color: var(--primary);
+    font-family: 'Ubuntu';
+}
+
